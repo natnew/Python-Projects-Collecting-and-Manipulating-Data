@@ -42,8 +42,17 @@ A link to my [Notebook](https://github.com/natnew/Python-Projects-Collecting-and
 * Pressure
 * Most common Health Conditions
 
-## Project 3
+## Project 3 - Housing market and house prices
 [Notebook]()
+
+There are a large number of Housing spreadsheets that provide the latest, most useful or most popular data, presented by type and other variables, including by geographical area or on a temporal basis. These spreadsheets are mostely produced from statistical returns completed by Local Authorities, although some are from survey data or external sources.<br>
+
+From:
+Ministry of Housing, Communities & Local Government
+Published
+10 November 2012
+Last updated
+14 July 2016 — See all updates
 
 ## Project 4
 [Notebook]()
