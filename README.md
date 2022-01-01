@@ -59,3 +59,7 @@ Last updated
 
 ## Project 5 - Business growth, access to finance and performance outcomes in the recession (Direct Gov)
 [Notebook]()
+
+Published by: Department for Business, Energy and Industrial Strategy <br>
+Last updated: 27 January 2012  <br>
+Topic: Business and economy Licence: Open Government Licence <br>
